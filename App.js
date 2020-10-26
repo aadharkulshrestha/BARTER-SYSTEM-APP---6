@@ -8,7 +8,7 @@ import WelcomeScreen from './screens/WelcomeScreen';
 import HomeScreen from './screens/HomeScreen'
 import Exchange from './screens/Exchange';
 import SettingScreen from './screens/SettingScreen.js';
-import customSidebarMenu from './components/CustomSideBarMenu'
+import customSidebarMenu from './components/customSidebarMenu.js'
 
 
 export default function App() {
